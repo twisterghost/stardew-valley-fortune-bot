@@ -1,0 +1,21 @@
+{
+  "name": "stardew-valley-fortune-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.sr.ht:~twisterghost/stardew-valley-fortune-bot"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.6.0",
+    "twit": "^2.2.11"
+  }
+}
